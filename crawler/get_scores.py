@@ -34,7 +34,7 @@ def get_student(url):
     s = remove_leading_space(s)
     return s.split(' ')
 
-fin = open('output1.txt','rt')
+fin = open('output.txt','rt')
 lines = fin.readlines()
 fin.close()
 
@@ -68,6 +68,8 @@ for line in lines:
     s.append('')
     s.append('')
     s.append('d\\xc3\\xa2n:')
+    s.append('')
+    s.append('danh:')
     s.append('')
 
     for p in s:
