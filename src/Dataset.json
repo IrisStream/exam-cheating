@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "province": "Hà Nội",
+        "file": "../data/1.csv"
+    },
+    {
+        "id": 2,
+        "province": "TP.HCM",
+        "file": "../data/2.csv"
+    },
+    {
+        "id": 3,
+        "province": "TP. Hải Phòng",
+        "file": "../data/3.csv"
+    },
+    {
+        "id": 4,
+        "province": "Hà Giang",
+        "file": "../data/4.csv"
+    },
+    {
+        "id": 5,
+        "province": "Cao Bằng",
+        "file": "../data/5.csv"
+    },
+    {
+        "id": 6,
+        "province": "Lai Châu",
+        "file": "../data/6.csv"
+    },
+    {
+        "id": 7,
+        "province": "Điện Biên",
+        "file": "../data/7.csv"
+    },
+    {
+        "id": 8,
+        "province": "Lào Cai",
+        "file": "../data/8.csv"
+    },
+    {
+        "id": 9,
+        "province": "Tuyên Quang",
+        "file": "../data/9.csv"
+    },
+    {
+        "id": 10,
+        "province": "Lạng Sơn",
+        "file": "../data/10.csv"
+    },
+    {
+        "id": 11,
+        "province": "Bắc Kạn",
+        "file": "../data/11.csv"
+    },
+    {
+        "id": 12,
+        "province": "Thái Nguyên",
+        "file": "../data/12.csv"
+    },
+    {
+        "id": 13,
+        "province": "Yên Bái",
+        "file": "../data/13.csv"
+    },
+    {
+        "id": 14,
+        "province": "Sơn La",
+        "file": "../data/14.csv"
+    },
+    {
+        "id": 15,
+        "province": "Phú Thọ",
+        "file": "../data/15.csv"
+    },
+    {
+        "id": 16,
+        "province": "Vĩnh Phúc",
+        "file": "../data/16.csv"
+    },
+    {
+        "id": 17,
+        "province": "Quảng Ninh",
+        "file": "../data/17.csv"
+    },
+    {
+        "id": 18,
+        "province": "Bắc Giang",
+        "file": "../data/18.csv"
+    },
+    {
+        "id": 19,
+        "province": "Bắc Ninh",
+        "file": "../data/19.csv"
+    },
+    {
+        "id": 20,
+        "province": "Hải Dương",
+        "file": "../data/20.csv"
+    },
+    {
+        "id": 21,
+        "province": "Hưng Yên",
+        "file": "../data/21.csv"
+    },
+    {
+        "id": 22,
+        "province": "Hòa Bình",
+        "file": "../data/22.csv"
+    },
+    {
+        "id": 23,
+        "province": "Hà Nam",
+        "file": "../data/23.csv"
+    },
+    {
+        "id": 24,
+        "province": "Nam Định",
+        "file": "../data/24.csv"
+    },
+    {
+        "id": 25,
+        "province": "Thái Bình",
+        "file": "../data/25.csv"
+    },
+    {
+        "id": 26,
+        "province": "Ninh Bình",
+        "file": "../data/26.csv"
+    },
+    {
+        "id": 27,
+        "province": "Thanh Hóa",
+        "file": "../data/27.csv"
+    },
+    {
+        "id": 28,
+        "province": "Nghệ An",
+        "file": "../data/28.csv"
+    },
+    {
+        "id": 29,
+        "province": "Hà Tĩnh",
+        "file": "../data/29.csv"
+    },
+    {
+        "id": 30,
+        "province": "Quảng Bình",
+        "file": "../data/30.csv"
+    },
+    {
+        "id": 31,
+        "province": "Quảng Trị",
+        "file": "../data/31.csv"
+    },
+    {
+        "id": 32,
+        "province": "Thừa Thiên Huế",
+        "file": "../data/32.csv"
+    },
+    {
+        "id": 33,
+        "province": "TP. Đà Nẵng",
+        "file": "../data/33.csv"
+    },
+    {
+        "id": 34,
+        "province": "Quảng Nam",
+        "file": "../data/34.csv"
+    },
+    {
+        "id": 35,
+        "province": "Quảng Ngãi",
+        "file": "../data/35.csv"
+    },
+    {
+        "id": 36,
+        "province": "Bình Định",
+        "file": "../data/36.csv"
+    },
+    {
+        "id": 37,
+        "province": "Phú Yên",
+        "file": "../data/37.csv"
+    },
+    {
+        "id": 38,
+        "province": "Gia Lai",
+        "file": "../data/38.csv"
+    },
+    {
+        "id": 39,
+        "province": "Kon Tum",
+        "file": "../data/39.csv"
+    },
+    {
+        "id": 40,
+        "province": "Đắk Lắk",
+        "file": "../data/40.csv"
+    },
+    {
+        "id": 41,
+        "province": "Đắk Nông",
+        "file": "../data/41.csv"
+    },
+    {
+        "id": 42,
+        "province": "Khánh Hòa",
+        "file": "../data/42.csv"
+    },
+    {
+        "id": 43,
+        "province": "Ninh Thuận",
+        "file": "../data/43.csv"
+    },
+    {
+        "id": 44,
+        "province": "Bình Thuận",
+        "file": "../data/44.csv"
+    },
+    {
+        "id": 45,
+        "province": "Lâm Đồng",
+        "file": "../data/45.csv"
+    },
+    {
+        "id": 46,
+        "province": "Bình Phước",
+        "file": "../data/46.csv"
+    },
+    {
+        "id": 47,
+        "province": "Bình Dương",
+        "file": "../data/47.csv"
+    },
+    {
+        "id": 48,
+        "province": "Tây Ninh",
+        "file": "../data/48.csv"
+    },
+    {
+        "id": 49,
+        "province": "Đồng Nai",
+        "file": "../data/49.csv"
+    },
+    {
+        "id": 50,
+        "province": "Long An",
+        "file": "../data/50.csv"
+    },
+    {
+        "id": 51,
+        "province": "Đồng Tháp",
+        "file": "../data/51.csv"
+    },
+    {
+        "id": 52,
+        "province": "An Giang",
+        "file": "../data/52.csv"
+    },
+    {
+        "id": 53,
+        "province": "Bà Rịa – Vũng Tàu",
+        "file": "../data/53.csv"
+    },
+    {
+        "id": 54,
+        "province": "Tiền Giang",
+        "file": "../data/54.csv"
+    },
+    {
+        "id": 55,
+        "province": "TP.Cần Thơ",
+        "file": "../data/55.csv"
+    },
+    {
+        "id": 56,
+        "province": "Hậu Giang",
+        "file": "../data/56.csv"
+    },
+    {
+        "id": 57,
+        "province": "Bến Tre",
+        "file": "../data/57.csv"
+    },
+    {
+        "id": 58,
+        "province": "Vĩnh Long",
+        "file": "../data/58.csv"
+    },
+    {
+        "id": 59,
+        "province": "Trà Vinh",
+        "file": "../data/59.csv"
+    },
+    {
+        "id": 60,
+        "province": "Sóc Trăng",
+        "file": "../data/60.csv"
+    },
+    {
+        "id": 61,
+        "province": "Bạc Liêu",
+        "file": "../data/61.csv"
+    },
+    {
+        "id": 62,
+        "province": "Kiên Giang",
+        "file": "../data/62.csv"
+    },
+    {
+        "id": 63,
+        "province": "Cà Mau",
+        "file": "../data/63.csv"
+    }
+]
