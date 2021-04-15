@@ -16,4 +16,8 @@
 
 ### Sinh học 
 
-- Thông qua xem xét hình dáng phân phối điểm và so sánh với phổ điểm toàn quốc, không phát hiện bất thường trong điểm số môn Sinh học của tỉnh Hà Giang
+- Thông qua xem xét hình dáng phân phối điểm và so sánh với phổ điểm toàn quốc, không phát hiện bất thường trong điểm số môn Sinh học của tỉnh Hà Giang.
+
+### Giáo dục công dân
+
+- Hình dáng phổ điểm so sánh với điểm toàn quốc khá tương đồng, không có dấu hiệu bất thường.
