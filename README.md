@@ -5,7 +5,7 @@
 | MSSV     | Họ Tên               |
 | -------- | -------------------- |
 | 18120078 | Ngô Phù Hữu Đại Sơn  |
-| 18120259 | Mai Ngọc Tú          |
+| 18120253 | Mai Ngọc Tú          |
 | 18120201 | Nguyễn Bảo Long      |
 | 18120227 | Phạm Văn Minh Phương |
 | 1712424  | Hàn Văn Gia Hiên     |
