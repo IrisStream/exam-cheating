@@ -45,3 +45,11 @@
 - Hơn nữa, theo như biểu đồ tròn, tỉ lệ số thí sinh đạt trên 27 điểm ở Hà Giang chỉ chiếm 2.27% so với cả nước, nhưng số thí sinh trên 28 điểm chiếm 1/3 cả nước cho thấy điểm bất thường trong phân phối điểm khối B ở Hà Giang.
 
 ### Khối C
+
+- Phổ điểm khối C của tỉnh Hà Giang lệch trái (điểm trung bình thấp hơn 2 điểm) so với toàn quốc và tuân theo phân phối chuẩn. Xét theo khả năng học tập của các tỉnh miền núi phía Bắc, kết quả này là hơp lý. Do đó, có thể kết luận: Không có sự bất thường đối với phổ điểm này
+- Đối với biểu đồ tròn: Hà Giang không có 1 thí sinh nào đạt trên 27 điểm khối C. Theo quan sát phổ điểm từng môn Sử, Địa, Công dân, với số điểm trên 8 ít ỏi ở cả 3 môn của tình Hà Giang, điều này là hoàn toàn hợp lý.
+
+### Khối D
+
+- Phổ điểm khố D của tỉnh Hà Giang bị lệch trái khá nhiều (điểm trung bình thấp hơn gần 4 điểm) so với toàn quốc và tuân theo phân phối chuẩn. Xét theo khả năng học tập của các tỉnh miền núi phía Bắc, kết quả này là hơp lý. Do đó, có thể kết luận: Không có sự bất thường đối với phổ điểm này
+- Đối với biểu đồ tròn: Hà Giang không có 1 thí sinh nào đạt trên 27 điểm khối D. Theo quan sát phổ điểm từng môn Toán, Văn, Anh, với số điểm trên 8 ít ỏi ở môn Toán của tình Hà Giang cộng thêm số trung bình Anh văn chỉ có 2.97 điểm, điều này là hoàn toàn hợp lý.
