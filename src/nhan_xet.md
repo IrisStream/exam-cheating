@@ -21,3 +21,13 @@
 ### Giáo dục công dân
 
 - Hình dáng phổ điểm so sánh với điểm toàn quốc khá tương đồng, không có dấu hiệu bất thường.
+
+### Ngoại ngữ
+- Phân bố điểm thi môn Ngoại ngữ ở Hà Giang có nét tương đồng so với phân bố điểm thi của cả nước và không nhận thấy sự bất thường trong điểm số
+- Khoảng điểm phổ biến ở môn thi này là 3 - 3.25 điểm, tương đồng so với cả nước.
+
+### Vật lý
+- Phân bố điểm thi môn Vậy lý ở Hà Giang khác biệt so với phân bố điểm thi của cả nước.
+- Khoảng điểm thi phổ biến ở môn thi này là 2-4 điểm, thấp hơn so với cả nước (4-5 điểm).
+- Số thí sinh có khoảng điểm 7.25-8.25 điểm chỉ có 4 thí sinh. Tuy nhiên số thí sinh đạt khoảng điểm 9-10 điểm lại có 33 thí sinh, cao hơn 8 lần số thí sinh có khoảng điểm thấp hơn. 
+- Hơn nữa, số thí sinh đạt 9.75-10 điểm có 5 thí sinh trên tổng số 16 thí sinh của cả nước. Đây là điểm bất thường trong điểm thi môn Vật lý ở Hà Giang do khoảng điểm phổ biến thấp hơn cả nước nhưng số thí sinh đạt điểm trên 9 lại tăng cao bất thường.
